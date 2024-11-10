@@ -1,0 +1,58 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BikeShopApp.Views.MainPage"
+             BackgroundColor="#FFF9E1">
+
+    <StackLayout Padding="20" Spacing="15">
+
+        <!-- Заголовок страницы -->
+        <Label Text="Bike Shop"
+               FontSize="42"
+               FontAttributes="Bold"
+               TextColor="Black"
+               HorizontalOptions="Center"
+               VerticalOptions="Center" />
+
+        <Button Text="Add Bike"
+                Clicked="OnAddCategoryClicked"
+                FontSize="20"
+                TextColor="White"
+                BackgroundColor="#FFD700"
+                CornerRadius="20"
+                Padding="20"
+                HeightRequest="70"
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="Center">
+            <Button.Shadow>
+                <Shadow Brush="Gray" Opacity="0.5" Offset="5,5" Radius="10"/>
+            </Button.Shadow>
+        </Button>
+
+        <CollectionView x:Name="MenuCollectionView"
+                        SelectionMode="Single"
+                        SelectionChanged="OnMenuSelected"
+                        Margin="0,10,0,0">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame CornerRadius="10" Padding="10" Margin="0,5,0,5" BackgroundColor="#FFF3C4" HasShadow="True" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                        <StackLayout Orientation="Horizontal" Spacing="10" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                            <Image Source="{Binding ImagePath}"
+                                   WidthRequest="60"
+                                   HeightRequest="60"
+                                   Aspect="AspectFill" />
+                            <Label Text="{Binding Name}"
+                                   FontSize="18"
+                                   TextColor="#333333"
+                                   VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" />
+                        </StackLayout>
+
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=BindingContext.OnMenuItemTappedCommand}" CommandParameter="{Binding .}" />
+                        </Frame.GestureRecognizers>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+
+</ContentPage>

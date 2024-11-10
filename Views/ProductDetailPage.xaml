@@ -1,0 +1,71 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BikeShopApp.Views.ProductDetailPage"
+             Title="Bike details"
+             BackgroundColor="#FFF9E1">
+
+    <StackLayout Padding="20" Spacing="15">
+
+        <!-- Изображение продукта -->
+        <Image x:Name="ProductImage" 
+               WidthRequest="170" 
+               HeightRequest="170" 
+               Aspect="AspectFill" 
+               HorizontalOptions="Center" 
+               VerticalOptions="Center" />
+
+        <!-- Название продукта -->
+        <Label x:Name="ProductNameLabel" 
+               FontSize="24" 
+               FontAttributes="Bold" 
+               TextColor="#333333"
+               HorizontalOptions="Center" 
+               VerticalOptions="Center" />
+
+        <!-- Описание продукта -->
+        <Label x:Name="ProductDescriptionLabel" 
+               FontSize="18" 
+               TextColor="#555555" 
+               HorizontalOptions="FillAndExpand" 
+               VerticalOptions="CenterAndExpand" />
+
+        <!-- Ингредиенты или особенности -->
+        <Label x:Name="ProductIngredientsLabel" 
+               FontSize="16" 
+               TextColor="#555555" 
+               HorizontalOptions="FillAndExpand" 
+               VerticalOptions="CenterAndExpand" />
+
+        <!-- Цена -->
+        <Label x:Name="ProductPriceLabel" 
+               FontSize="20" 
+               FontAttributes="Bold" 
+               TextColor="#FFD700" 
+               HorizontalOptions="Center" 
+               VerticalOptions="Center" />
+
+        <!-- Кнопка редактирования -->
+        <Button Text="Edit" 
+                Clicked="OnEditClicked" 
+                FontSize="20" 
+                TextColor="White" 
+                BackgroundColor="#FFD700" 
+                CornerRadius="25" 
+                Padding="15"
+                HeightRequest="60" 
+                HorizontalOptions="FillAndExpand" 
+                VerticalOptions="Center" />
+
+        <!-- Кнопка удаления -->
+        <Button Text="Delete" 
+                Clicked="OnDeleteClicked" 
+                FontSize="20" 
+                TextColor="White" 
+                BackgroundColor="Red" 
+                CornerRadius="25" 
+                Padding="15"
+                HeightRequest="60" 
+                HorizontalOptions="FillAndExpand" 
+                VerticalOptions="Center" />
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\views\\editcategorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:views\\editcategorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\views\\addcategorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:views\\addcategorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\views\\addproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:views\\addproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\views\\productpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:views\\productpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\views\\productpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:views\\productpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\views\\addcategorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:views\\addcategorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\models\\menucategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:models\\menucategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\platforms\\ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:platforms\\ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\views\\productdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:views\\productdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\views\\editcategorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:views\\editcategorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|c:\\users\\admin\\desktop\\bikeshopapp\\bikeshopapp\\views\\addproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B27FE04-EB96-4AE0-89B6-DCA326675D09}|BikeShopApp.csproj|solutionrelative:views\\addproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:39:36.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditCategoryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Views\\EditCategoryPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\EditCategoryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Views\\EditCategoryPage.xaml.cs",
+              "RelativeToolTip": "Views\\EditCategoryPage.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:36:57.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Views\\ProductPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ProductPage.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Views\\ProductPage.xaml.cs",
+              "RelativeToolTip": "Views\\ProductPage.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:39:41.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddProductPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Views\\AddProductPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AddProductPage.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Views\\AddProductPage.xaml.cs",
+              "RelativeToolTip": "Views\\AddProductPage.xaml.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:29:17.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddCategoryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Views\\AddCategoryPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AddCategoryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Views\\AddCategoryPage.xaml.cs",
+              "RelativeToolTip": "Views\\AddCategoryPage.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T22:15:45.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:39:32.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:36:46.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Views\\MainPage.xaml",
+              "RelativeToolTip": "Views\\MainPage.xaml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T21:46:28.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:46:24.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:55:40.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "Services\\DatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T22:14:18.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Views\\ProductPage.xaml",
+              "RelativeDocumentMoniker": "Views\\ProductPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Views\\ProductPage.xaml",
+              "RelativeToolTip": "Views\\ProductPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T21:55:05.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MenuCategory.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Models\\MenuCategory.cs",
+              "RelativeDocumentMoniker": "Models\\MenuCategory.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Models\\MenuCategory.cs",
+              "RelativeToolTip": "Models\\MenuCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:55:37.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddCategoryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Views\\AddCategoryPage.xaml",
+              "RelativeDocumentMoniker": "Views\\AddCategoryPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Views\\AddCategoryPage.xaml",
+              "RelativeToolTip": "Views\\AddCategoryPage.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAD4vxgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T21:52:40.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Platforms\\iOS\\Program.cs",
+              "RelativeDocumentMoniker": "Platforms\\iOS\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Platforms\\iOS\\Program.cs",
+              "RelativeToolTip": "Platforms\\iOS\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:56:08.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:55:58.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:55:49.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Platforms\\iOS\\AppDelegate.cs",
+              "RelativeDocumentMoniker": "Platforms\\iOS\\AppDelegate.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Platforms\\iOS\\AppDelegate.cs",
+              "RelativeToolTip": "Platforms\\iOS\\AppDelegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:56:05.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T21:55:33.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T21:55:21.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T21:55:15.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductDetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Views\\ProductDetailPage.xaml",
+              "RelativeDocumentMoniker": "Views\\ProductDetailPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Views\\ProductDetailPage.xaml",
+              "RelativeToolTip": "Views\\ProductDetailPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T21:55:00.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EditCategoryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Views\\EditCategoryPage.xaml",
+              "RelativeDocumentMoniker": "Views\\EditCategoryPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Views\\EditCategoryPage.xaml",
+              "RelativeToolTip": "Views\\EditCategoryPage.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAD4vxcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T21:54:48.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddProductPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Views\\AddProductPage.xaml",
+              "RelativeDocumentMoniker": "Views\\AddProductPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\BikeShopApp\\BikeShopApp\\Views\\AddProductPage.xaml",
+              "RelativeToolTip": "Views\\AddProductPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T21:54:40.479Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

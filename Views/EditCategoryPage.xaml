@@ -1,0 +1,57 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BikeShopApp.Views.EditCategoryPage"
+             BackgroundColor="#FFF9E1">
+    <!-- светло-жёлтый фон страницы -->
+
+    <StackLayout Padding="20" Spacing="15">
+        <Label Text="Edit Category"
+               FontSize="26"
+               TextColor="#333333"
+               HorizontalOptions="Center" />
+
+        <Entry x:Name="CategoryNameEntry"
+               Placeholder="Category Name"
+               FontSize="18"
+               TextColor="#333333"
+               PlaceholderColor="#B0B0B0"
+               BackgroundColor="#FFF3C4"
+               HeightRequest="50" />
+
+        <Image x:Name="CategoryImage"
+               WidthRequest="200"
+               HeightRequest="200"
+               Aspect="AspectFill"
+               Margin="0,10,0,10" />
+
+        <Button Text="Select Image"
+                Clicked="OnSelectImageClicked"
+                FontSize="20"
+                TextColor="White"
+                BackgroundColor="#FFD700"
+                CornerRadius="15"
+                Padding="15,10"
+                HeightRequest="60"
+                HorizontalOptions="Center">
+            <Button.Shadow>
+                <Shadow Brush="Gray" Opacity="0.5" Offset="5,5" Radius="10"/>
+            </Button.Shadow>
+        </Button>
+        <!-- кнопка с тенями, закруглёнными краями и жёлтым цветом -->
+
+        <Button Text="Save"
+                Clicked="OnSaveClicked"
+                FontSize="20"
+                TextColor="White"
+                BackgroundColor="#FFC107"
+                CornerRadius="15"
+                Padding="15,10"
+                HeightRequest="60"
+                HorizontalOptions="Center">
+            <Button.Shadow>
+                <Shadow Brush="Gray" Opacity="0.5" Offset="5,5" Radius="10"/>
+            </Button.Shadow>
+        </Button>
+        <!-- кнопка с тенями, закруглёнными краями и жёлто-оранжевым цветом -->
+    </StackLayout>
+</ContentPage>

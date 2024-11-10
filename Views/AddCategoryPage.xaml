@@ -1,0 +1,54 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BikeShopApp.Views.AddCategoryPage"
+             Title="Add Bike Type"
+             BackgroundColor="#FFF9E1">
+    <!-- светло-жёлтый фон страницы -->
+
+    <StackLayout Padding="20" Spacing="20">
+        <Entry x:Name="CategoryNameEntry"
+               Placeholder="Bike type name"
+               FontSize="20"
+               TextColor="#333333"
+               PlaceholderColor="#B0B0B0"
+               BackgroundColor="#FFF3C4"
+               HeightRequest="50" />
+        <!-- увеличен шрифт и высота поля ввода -->
+
+        <Image x:Name="CategoryImage"
+               WidthRequest="150"
+               HeightRequest="150"
+               Aspect="AspectFill"
+               Margin="0,10,0,10" />
+
+        <Button Text="Select image"
+                Clicked="OnSelectImageClicked"
+                FontSize="20"
+                TextColor="White"
+                BackgroundColor="#FFD700"
+                CornerRadius="15"
+                Padding="15,10"
+                HeightRequest="60"
+                HorizontalOptions="Center">
+            <Button.Shadow>
+                <Shadow Brush="Gray" Opacity="0.5" Offset="5,5" Radius="20"/>
+            </Button.Shadow>
+        </Button>
+        <!-- большая кнопка с закруглёнными краями и тенью -->
+
+        <Button Text="Save bike"
+                Clicked="OnSaveClicked"
+                FontSize="20"
+                TextColor="White"
+                BackgroundColor="#FFC107"
+                CornerRadius="15"
+                Padding="15,10"
+                HeightRequest="60"
+                HorizontalOptions="Center">
+            <Button.Shadow>
+                <Shadow Brush="Gray" Opacity="0.5" Offset="5,5" Radius="20"/>
+            </Button.Shadow>
+        </Button>
+        <!-- большая кнопка с закруглёнными краями и тенью -->
+    </StackLayout>
+</ContentPage>
